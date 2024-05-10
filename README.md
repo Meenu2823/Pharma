@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date:
+## Date: 10.05.24
 
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
@@ -26,6 +26,9 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 ## PROGRAM :
+
+Developed By : Meenu.S
+Register No. : 212223230124
 ~~~
 <!DOCTYPE html>
 <html lang="en">
